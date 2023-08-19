@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheArchitect24
-- 👀 I’m interested in Data Analysis and Science
-- 🌱 I’m currently learning and improving my skills in SQL, Python for Data Analysis and Science, PowerBI for visualizations and analysis.
+- 👀 I am a Data Analyst and Sciencist
+- 🌱 I’m currently working with nad improving my skills in SQL, Python for Data Analysis and Science, PowerBI for visualizations and analysis.
 - 💞️ I’m looking to collaborate on projects and learn even more. I intend to expeditely upscale my skills and I would welcome any and every suggestion and advice 
 - 📫 How to reach me you can reach me on LinkedIn @O Kenneth Nebe.
 
